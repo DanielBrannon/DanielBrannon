@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **daniel-brannon@hotmail.com or dbrannon2015@gmail.com**
 
-- 📄 Know about my experiences [[https://docs.google.com/document/d/1UGD2OQE7Ee8u46Us-IgKFKEt5s5KadpIo6kfduKD7kc/edit]](https://drive.google.com/file/d/1Mlf2Gy_iSwoGl5Z9pG2e2UoDiCFCmEfs/view?usp=sharing)(https://docs.google.com/document/d/1UGD2OQE7Ee8u46Us-IgKFKEt5s5KadpIo6kfduKD7kc/edit)
+- 📄 View my resume! [[https://docs.google.com/document/d/1UGD2OQE7Ee8u46Us-IgKFKEt5s5KadpIo6kfduKD7kc/edit]](https://drive.google.com/file/d/1Mlf2Gy_iSwoGl5Z9pG2e2UoDiCFCmEfs/view?usp=sharing)(https://docs.google.com/document/d/1UGD2OQE7Ee8u46Us-IgKFKEt5s5KadpIo6kfduKD7kc/edit)
 
 - ⚡ Fun fact **I have a Super Mario tattoo and I'm overly honest
 
