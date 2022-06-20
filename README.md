@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate Full Stack Web Developer currently living in Georgia</h3>
 
-- 🔭 I’m currently working on [HRF Asylum](https://github.com/Lambda-School-Labs/human-rights-first-asylum-fe-a)
+- 🔭 I’m currently working on [[WCSN](https://github.com/Lambda-School-Labs/human-rights-first-asylum-fe-a)](https://github.com/jeromewaltercarlson/WCSN)
 
-- 🌱 I’m currently learning **How to be a better developer**
+- 🌱 I’m currently learning **3JS, MongoDB**
 
-- 📫 How to reach me **daniel-brannon@hotmail.com**
+- 📫 How to reach me **daniel-brannon@hotmail.com or dbrannon2015@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1UGD2OQE7Ee8u46Us-IgKFKEt5s5KadpIo6kfduKD7kc/edit](https://docs.google.com/document/d/1UGD2OQE7Ee8u46Us-IgKFKEt5s5KadpIo6kfduKD7kc/edit)
 
