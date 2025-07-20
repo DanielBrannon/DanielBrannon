@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate Full Stack Web Developer currently living in Georgia</h3>
 
-- 🔭 I’m currently working on [[WCSN](https://github.com/Lambda-School-Labs/human-rights-first-asylum-fe-a)](https://github.com/jeromewaltercarlson/WCSN)
+- 🔭 I’m currently working on [https://phoenix-learning.netlify.app/))
 
 - 🌱 I’m currently learning **3JS, MongoDB**
 
